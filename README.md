@@ -1,4 +1,4 @@
-Module 8 Lab Assignment Files Information.
+The branch contains the Module 8 Lab Assignment files.
 
 Student: Hezekiah Watson
 
