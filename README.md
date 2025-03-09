@@ -1,4 +1,4 @@
-Module 6 Lab Files
+The branch contains the Module 6 Lab Files.
 
 Hezekiah Watson
 
