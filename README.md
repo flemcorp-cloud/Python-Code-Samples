@@ -1,4 +1,4 @@
-Folder contains the Python program files for the Module 3 Lab.
+Branch contains the Python program files for the Module 3 Lab.
 
 Student: Hezekiah Watson
 
