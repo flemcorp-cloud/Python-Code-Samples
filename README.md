@@ -1,4 +1,4 @@
-The folder contains the Python program files for Module 5.
+The branch contains the Python program files for Module 5.
 
 Student: Hezekiah Watson
 
