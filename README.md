@@ -1,4 +1,4 @@
-Lab Module 7 - Python Programs
+The branch contains the Module 7 lab files. 
 
 Student: Hezekiah Watson  
 
